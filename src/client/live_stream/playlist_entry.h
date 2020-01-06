@@ -1,4 +1,4 @@
-/*  Copyright (C) 2014-2019 FastoGT. All right reserved.
+/*  Copyright (C) 2014-2020 FastoGT. All right reserved.
 
     This file is part of FastoTV.
 
@@ -19,6 +19,7 @@
 #pragma once
 
 #include <memory>
+#include <string>
 
 #include <fastotv/commands_info/channels_info.h>
 #include <fastotv/commands_info/runtime_channel_info.h>

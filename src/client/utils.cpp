@@ -1,4 +1,4 @@
-/*  Copyright (C) 2014-2019 FastoGT. All right reserved.
+/*  Copyright (C) 2014-2020 FastoGT. All right reserved.
 
     This file is part of FastoTV.
 
@@ -17,6 +17,8 @@
 */
 
 #include "client/utils.h"
+
+#include <string>
 
 extern "C" {
 #include <libavformat/avformat.h>

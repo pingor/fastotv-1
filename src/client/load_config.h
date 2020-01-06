@@ -1,4 +1,4 @@
-/*  Copyright (C) 2014-2019 FastoGT. All right reserved.
+/*  Copyright (C) 2014-2020 FastoGT. All right reserved.
 
     This file is part of FastoTV.
 
@@ -15,6 +15,10 @@
     You should have received a copy of the GNU General Public License
     along with FastoTV. If not, see <http://www.gnu.org/licenses/>.
 */
+
+#pragma once
+
+#include <string>
 
 #include <common/error.h>  // for Error
 #include <common/net/types.h>
